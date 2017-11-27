@@ -1,0 +1,10 @@
+Balancing Raspberry Pi 2-Wheel Robot
+
+1 Raspberry Pi Model 3
+2 DC Motors
+2 Wheels
+1 Adafruit Motorhat
+1 Waveshare 10DOF IMU
+1 1000 mAh LiPo Battery (for Pi)
+1 850 mAh LiPo Battery (for motorhat)
+plus lots of hardware
